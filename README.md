@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Rex
 - 👀 I’m interested in pragram、guitar and badminton.
-- 🌱 I’m currently learning java and golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning 408...
+- 📫 How to reach me: rexhub@163.com
 
 <!---
 Rex0520/Rex0520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
